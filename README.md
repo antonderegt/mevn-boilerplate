@@ -10,8 +10,11 @@ Mongoose runs on top of MongoDB
 # install dependencies
 npm install
 
-# serve (without hot reload yet) at localhost:3000
+# build and watch for changes
 npm run serve
+
+# run in a seperate terminal to serve at localhost:3000
+nodemon server.js
 
 # build for production with minification
 npm run build
