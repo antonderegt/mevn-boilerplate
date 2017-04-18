@@ -2,7 +2,7 @@
 
 MEVN means it contains MongoDB, ExpressJS, VueJS and NodeJS
 it is based on vue cli (webpack-simple template).
-Mongoose runs on top of MongoDB [How to install MongoDB on Windows](https://www.youtube.com/watch?v=1uFY60CESlM&t=605s)
+Mongoose runs on top of MongoDB. [How to install MongoDB on Windows](https://www.youtube.com/watch?v=1uFY60CESlM&t=605s)
 
 ## How to start
 
