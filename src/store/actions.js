@@ -20,11 +20,3 @@ export const incCount = ({commit}, count_payload) => {
   .then(response => response.json())
   .then(json => commit(types.INC_COUNT, json))
 }
-
-export const api = ({commit}) => {
-  fetch(`/api/joke`, {
-    method: 'GET'
-  })
-  .then(response => response.json())
-  .then(json => commit(types.API, json))
-}
