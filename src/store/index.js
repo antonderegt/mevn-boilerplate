@@ -6,8 +6,6 @@ import * as actions from './actions'
 Vue.use(Vuex)
 
 const state = {
-  user: {name: 'test'},
-  joke: {},
   counts: {
     count: -1
   }
