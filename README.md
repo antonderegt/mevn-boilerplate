@@ -7,6 +7,9 @@ Mongoose runs on top of MongoDB. [How to install MongoDB on Windows](https://www
 ## How to start
 
 ``` bash
+# clone the repo
+git clone https://github.com/antonderegt/mevn-boilerplate.git
+
 # install dependencies
 npm install
 
