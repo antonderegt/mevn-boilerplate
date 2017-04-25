@@ -6,8 +6,5 @@ export const mutations = {
   },
   [types.INC_COUNT] (state, count_payload) {
     state.counts.count = count_payload
-  },
-  [types.API] (state, data) {
-    state.joke = data
   }
 }
